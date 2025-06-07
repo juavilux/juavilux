@@ -52,7 +52,16 @@
 )](https://www.linkedin.com/in/juavi/)
 
 ### ENTRE EM CONTATO CONOSCO!
-[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://wa.me/5531975800085)
-[![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://t.me/juavilux)
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://api.whatsapp.com/send?phone=5531975800085" target="_blank" style="display: inline-block;">
+    <div style="width: 55px; height: 55px; border-radius: 15px; overflow: hidden;">
+      <img src="https://media.giphy.com/media/IyDkgjU9Zdi5zqarCs/giphy.gif" alt="WhatsApp" width="55" height="55">
+    </div>
+  </a>
+
+  <a href="https://t.me/@juavilux" target="_blank" style="display: inline-block;">
+    <div style="width: 55px; height: 55px; border-radius: 15px; overflow: hidden;">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF5d3Ywc284czJ5bmdvM3AyYnBnaWh3YjIzeGF1OHJ3OXdseTkzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MqxBXoUOx9EAEfprDc/giphy.gif" alt="Telegram" width="55" height="55">
+    </div>
+  </a>
+</div>
