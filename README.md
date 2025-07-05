@@ -9,7 +9,7 @@
 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )](https://www.javascript.com/)
-[![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+[![FIGMA](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
 )](https://www.figma.com/)
 
 ## Ferramentas de Cibersegurança:
