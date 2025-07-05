@@ -9,8 +9,8 @@
 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )](https://www.javascript.com/)
-[![FIGMA](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg
-)](https://www.figma.com/)
+[![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+)](https://www.mysql.com/)
 
 ## Ferramentas de Cibersegurança:
 
