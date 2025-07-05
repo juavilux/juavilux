@@ -16,6 +16,8 @@
 
 [![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
 )](https://www.kali.org/)
+[![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+)](https://ubuntu.com/)
 
 ### ME SIGA NAS REDES SOCIAIS!
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
