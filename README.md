@@ -4,8 +4,6 @@
 
 [![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 )](https://www.python.org/)
-[![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-)](https://dart.dev/)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )](https://cloud.google.com/)
@@ -14,24 +12,6 @@
 
 [![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 )](https://flutter.dev/)
-[![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
-)](https://www.sqlite.org/)
-
-[![GOOGLECLOUD](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white
-)](https://cloud.google.com/)
-[![LIBREOFFICE](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white
-)](https://pt-br.libreoffice.org/)
-
-## Tecnologias de Design Gráfico que utilizo:
-[![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black
-)](https://www.adobe.com/br/products/photoshop)
-[![AFTEREFFECTS](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665
-)](https://www.adobe.com/br/products/aftereffects)
-
-[![ILLUSTRATOR](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white
-)](https://www.adobe.com/br/products/illustrator)
-[![BLENDER](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white
-)](https://www.blender.org/)
 [![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
 )](https://www.figma.com/)
 
