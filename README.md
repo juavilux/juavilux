@@ -27,10 +27,10 @@
 [![TIKTOK](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
 )](https://www.tiktok.com/@juavilux)
 
-[![LINKTREE](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
-)](https://linktr.ee/juavi)
 [![BEHANCE](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white
 )](https://www.behance.net/juavi)
+[![LINKTREE](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
+)](https://linktr.ee/juavi)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/juavi/)
 
